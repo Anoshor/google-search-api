@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Directory for output files
+dist/
+build/
+
+# Dependency directories
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore search result files
+search_results.txt
+
+# System files
+Thumbs.db
+
+# Keys and secrets
+keys.py
+google-search/keys.js
+
+# Virtual environment folder
+search-api/
